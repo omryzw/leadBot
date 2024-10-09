@@ -21,7 +21,7 @@ To set up the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/omryzw/leadBot.git
-   cd your-repo-name
+   cd leadBot
 
 2. ```bash
    npm install && npm run start
